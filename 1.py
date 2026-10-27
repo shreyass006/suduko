@@ -1,1 +1,0 @@
-print("shreyas is a fool")
